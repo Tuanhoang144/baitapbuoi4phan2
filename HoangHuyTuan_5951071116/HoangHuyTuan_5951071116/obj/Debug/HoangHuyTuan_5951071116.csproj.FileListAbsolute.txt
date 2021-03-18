@@ -1,0 +1,10 @@
+D:\tai lieu\laptrinhtrucquan bt\HoangHuyTuan_5951071116\HoangHuyTuan_5951071116\bin\Debug\HoangHuyTuan_5951071116.exe.config
+D:\tai lieu\laptrinhtrucquan bt\HoangHuyTuan_5951071116\HoangHuyTuan_5951071116\bin\Debug\HoangHuyTuan_5951071116.exe
+D:\tai lieu\laptrinhtrucquan bt\HoangHuyTuan_5951071116\HoangHuyTuan_5951071116\bin\Debug\HoangHuyTuan_5951071116.pdb
+D:\tai lieu\laptrinhtrucquan bt\HoangHuyTuan_5951071116\HoangHuyTuan_5951071116\obj\Debug\HoangHuyTuan_5951071116.csprojAssemblyReference.cache
+D:\tai lieu\laptrinhtrucquan bt\HoangHuyTuan_5951071116\HoangHuyTuan_5951071116\obj\Debug\HoangHuyTuan_5951071116.Form1.resources
+D:\tai lieu\laptrinhtrucquan bt\HoangHuyTuan_5951071116\HoangHuyTuan_5951071116\obj\Debug\HoangHuyTuan_5951071116.Properties.Resources.resources
+D:\tai lieu\laptrinhtrucquan bt\HoangHuyTuan_5951071116\HoangHuyTuan_5951071116\obj\Debug\HoangHuyTuan_5951071116.csproj.GenerateResource.cache
+D:\tai lieu\laptrinhtrucquan bt\HoangHuyTuan_5951071116\HoangHuyTuan_5951071116\obj\Debug\HoangHuyTuan_5951071116.csproj.CoreCompileInputs.cache
+D:\tai lieu\laptrinhtrucquan bt\HoangHuyTuan_5951071116\HoangHuyTuan_5951071116\obj\Debug\HoangHuyTuan_5951071116.exe
+D:\tai lieu\laptrinhtrucquan bt\HoangHuyTuan_5951071116\HoangHuyTuan_5951071116\obj\Debug\HoangHuyTuan_5951071116.pdb
